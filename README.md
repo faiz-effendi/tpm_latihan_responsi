@@ -1,6 +1,6 @@
-# responsi_123220139
+# TPM tugas Latihan Rasponsi
 
-A new Flutter project.
+## Nandisya Faiz Effendi | 123220139
 
 ## Getting Started
 
